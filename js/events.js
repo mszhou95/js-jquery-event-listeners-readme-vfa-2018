@@ -20,7 +20,7 @@ function frameIt() {
 
 function pressIt() {
   
-  $
+  $('#typing')
   
 }
 
