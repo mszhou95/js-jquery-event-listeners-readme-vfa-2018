@@ -8,7 +8,16 @@ function getIt() {
   }
 )}
 
-//
+//frameIt function
+
+function frameIt() {
+  
+  $('.tasty').load(function() {
+    
+    
+  })
+  
+}
 
 
 $(document).ready(function(){
