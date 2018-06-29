@@ -1,7 +1,8 @@
 //define functions here
-
-  $('p').on('click', function(getIt) {
-  return "Hey!"
+function getIt() {
+  $('p').on('click', function() {
+  return "Hey!";
+}
 }
 
 
@@ -9,6 +10,6 @@ $(document).ready(function(){
 
 // call functions here
 
-
+getIt();
 
 })
