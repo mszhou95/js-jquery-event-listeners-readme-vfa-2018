@@ -18,6 +18,8 @@ function frameIt() {
   })
 }
 
+//pressIt function
+
 function pressIt() {
   
   $('#typing').keydown(function(key) {
@@ -27,6 +29,9 @@ function pressIt() {
     }
   })
 }
+
+//submitIt function
+
 
 $(document).ready(function(){
   
