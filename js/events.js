@@ -7,7 +7,7 @@
 
 $(document).ready(function(){
   
-  getIt().click();
+  getIt();
   
 })
 
