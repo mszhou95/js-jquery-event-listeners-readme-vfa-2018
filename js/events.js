@@ -20,9 +20,9 @@ function frameIt() {
 
 function pressIt() {
   
-  $('#typing').keydown(function() {
+  $('#typing').keydown(function(key) {
     
-    
+    if(key.which ==)
     
   })
   
