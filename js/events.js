@@ -14,7 +14,6 @@ function frameIt() {
   
   $('img').addClass('.tasty')
     
-  }
 }
 
 //pressIt function
