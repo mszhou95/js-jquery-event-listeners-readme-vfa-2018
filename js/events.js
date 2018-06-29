@@ -3,13 +3,13 @@
 function getIt() {
   return "Hey!"
 }
-$('p').on('click', getIt())
 
 
 $(document).ready(function(){
 
 // call functions here
 
+$('p').on('click', getIt())
 
 
 })
