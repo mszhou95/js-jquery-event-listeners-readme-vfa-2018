@@ -31,7 +31,10 @@ function pressIt() {
 }
 
 //submitIt function
-
+function submitIt() {
+  
+  
+}
 
 $(document).ready(function(){
   
