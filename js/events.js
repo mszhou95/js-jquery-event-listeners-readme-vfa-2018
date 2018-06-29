@@ -16,7 +16,6 @@ function frameIt() {
     addClass(".tasty")
     
   })
-  return
 }
 
 
