@@ -4,7 +4,7 @@
 //getIt function
 function getIt() {
   $('p').click(function() {
-    alert "Hey!";
+    alert("Hey!");
   }
 )}
 
@@ -23,7 +23,7 @@ function pressIt() {
   $('#typing').keydown(function(key) {
     
     if(key.which == 71) {
-      alert "g was pressed";
+      alert("g was pressed");
     }
   })
 }
