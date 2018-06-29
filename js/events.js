@@ -8,7 +8,7 @@ function getIt() {
 
 $(document).ready(function(){
   
-  getIt();
+  function getIt();
   
 })
 
