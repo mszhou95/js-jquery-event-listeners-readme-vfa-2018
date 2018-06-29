@@ -1,14 +1,14 @@
 //define functions here
 
-
+function getIt() {
+  return "Hey!"
+}
 
 
 $(document).ready(function(){
 
 // call functions here
 
-$("p").on("click", function(getIt) {
-  return "Hey!"
-})
+$('p').on('click', getIt()
 
-});
+}
